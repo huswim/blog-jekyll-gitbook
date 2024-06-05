@@ -1,16 +1,17 @@
 # Configurations
-title:            Jekyll Gitbook
+title:            Hyeonuk Shin
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+author:           Hyeonuk Shin
+email:            haruswim@hanyang.ac.kr
 description: >
-  Build Jekyll site with the GitBook style.
+  아직 암것도 없음
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+domain:           blog.huswim.com
+url:              'https://blog.huswim.com'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
