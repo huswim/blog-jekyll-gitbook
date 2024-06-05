@@ -12,12 +12,12 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
         {
             config: 'night',
             text: 'Night',
-            id: 2
+            id: 0
         },
         {
             config: 'white',
             text: 'White',
-            id: 0
+            id: 2
         },
         {
             config: 'sepia',
