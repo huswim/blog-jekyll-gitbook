@@ -1,0 +1,13 @@
+---
+title: 최근 글
+author: Hyeonuk Shin
+date: 2024-06-05
+# category: Jekyll
+layout: home
+permalink: /
+---
+
+{% for post in site.posts %}
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<p>{{ post.date | date: "%Y-%m-%d" }}</p>
+{% endfor %}
